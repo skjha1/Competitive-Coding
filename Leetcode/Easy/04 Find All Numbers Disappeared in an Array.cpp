@@ -8,15 +8,15 @@ public:
         
         for (int i=0;i<no;i++)
         {
-            int position = abs(nums[i])-1;
+            int position = abs(nums[i])-1; // taking the abs element and subtracting 1 in order to maintain index  
             if (nums[position]>0)
-                nums[position]=-nums[position];
+                nums[position]=-nums[position];// now make all the elements  present in the vector as -ve 
         }
         
         
         for (int i=0;i<no;i++)
         {
-            if (nums[i]>0)
+            if (nums[i]>0) // the number which is not there in vector is ovious that will be +ve so keep that in the vector 
             result.push_back(i+1);
         }
         
