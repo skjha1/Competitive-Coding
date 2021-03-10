@@ -35,3 +35,26 @@ int main() {
     vector<int> result = solution.twoSum(nums, Sum);
     PrintVector(result);
 }
+
+
+
+-----------------------------------------------------------------------------------------------------------------------
+    
+    class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        int num1; // make a variable for finding the element
+        for (int i = 0; i < nums.size(); i++)  // iterate through the vector 
+        {
+            num1 = target - nums[i]; // we will get the 2nd item to bve find 
+            for (int k = i+1; k < nums.size(); k++ ) // for finding the position 
+            {
+                 if(nums[k] == num1)
+                 {
+                     return {i,k}; // just take both the subscript 
+                 }
+            }
+        }
+        return {};
+    }
+};
