@@ -1,6 +1,12 @@
 # Competitive-Coding
 This Section contains competitive coding form different different coding plateform
 <img src="https://github.com/skjha1/Competitive-Coding/blob/main/Codechef/IMG/cp.png" alt="Paris" class="center">
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
 
 ***LEETCODE***
