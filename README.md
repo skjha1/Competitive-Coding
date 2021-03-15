@@ -5,7 +5,7 @@ This Section contains competitive coding form different different coding platefo
 
 🔯 ***EASY***
 
-| Peoblem | Code |
+| Problem | Code |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Two Sum | [source](https://github.com/skjha1/Competitive-Coding/blob/main/Leetcode/Easy/01%20Two%20Sum.cpp) |
 | Contains Duplicate | [source](https://github.com/skjha1/Competitive-Coding/blob/main/Leetcode/Easy/02%20Contains%20Duplicate.cpp) |
