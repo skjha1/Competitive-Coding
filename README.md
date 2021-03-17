@@ -1,4 +1,7 @@
 # Competitive-Coding
+
+ ![Language](https://img.shields.io/badge/language-C++11-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md) ![Progress](https://img.shields.io/badge/progress-289%20%2F%20289-ff69b4.svg)
+
 This Section contains competitive coding form different different coding plateform
 <p align="center">
   <img width="460" height="300" src="https://github.com/skjha1/Competitive-Coding/blob/main/Codechef/IMG/cp.png">
