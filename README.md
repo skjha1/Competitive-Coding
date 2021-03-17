@@ -11,7 +11,7 @@ This Section contains competitive coding form different different coding platefo
 ## Topics
 
 * [Array](https://github.com/kamyu104/Competitive-Coding#array)
-* [Linked List](https://github.com/kamyu104/Competitive-Coding#Linked List)
+* [Linked List](https://github.com/kamyu104/Competitive-Coding#LinkedList)
 
 
 ## 🔯 Array
