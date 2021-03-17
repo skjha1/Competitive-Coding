@@ -18,7 +18,15 @@ This Section contains competitive coding form different different coding platefo
 |  S.No  | Title           |  Solution       |  Time           | Space           | Difficulty    |
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |
 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [source](https://github.com/skjha1/Competitive-Coding/blob/main/Leetcode/Easy/01%20Two%20Sum.cpp)  | _O(n)_       | _O(n)_          | Easy         |
- 1 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [source](https://github.com/skjha1/Competitive-Coding/blob/main/Leetcode/Easy/02%20Contains%20Duplicate.cpp)  | _O(n)_       | _O(1)_          | Easy         |
+ 2 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [source](https://github.com/skjha1/Competitive-Coding/blob/main/Leetcode/Easy/02%20Contains%20Duplicate.cpp)  | _O(n)_       | _O(1)_          | Easy         |
+3 | [Missing Number](https://leetcode.com/problems/contains-duplicate/) | [source](https://github.com/skjha1/Competitive-Coding/blob/main/Leetcode/Easy/02%20Contains%20Duplicate.cpp)  | _O(n)_       | _O(1)_          | Easy         |
+4 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/two-sum/) | [source](https://github.com/skjha1/Competitive-Coding/blob/main/Leetcode/Easy/01%20Two%20Sum.cpp)  | _O(n)_       | _O(n)_          | Easy         |
+5 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum/) | [source](https://github.com/skjha1/Competitive-Coding/blob/main/Leetcode/Easy/01%20Two%20Sum.cpp)  | _O(n)_       | _O(n)_          | Easy         |
+6 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/two-sum/) | [source](https://github.com/skjha1/Competitive-Coding/blob/main/Leetcode/Easy/01%20Two%20Sum.cpp)  | _O(n)_       | _O(n)_          | Easy         |
+7 | [Remove element](https://leetcode.com/problems/two-sum/) | [source](https://github.com/skjha1/Competitive-Coding/blob/main/Leetcode/Easy/01%20Two%20Sum.cpp)  | _O(n)_       | _O(n)_          | Easy         |
+8 | [Search Insert Position](https://leetcode.com/problems/two-sum/) | [source](https://github.com/skjha1/Competitive-Coding/blob/main/Leetcode/Easy/01%20Two%20Sum.cpp)  | _O(n)_       | _O(n)_          | Easy         |
+9 | [Maximum Subarray](https://leetcode.com/problems/two-sum/) | [source](https://github.com/skjha1/Competitive-Coding/blob/main/Leetcode/Easy/01%20Two%20Sum.cpp)  | _O(n)_       | _O(n)_          | Easy         |
+ 
 
 
  ***Array***
