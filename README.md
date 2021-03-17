@@ -1,6 +1,6 @@
 # Competitive-Coding
 
- ![Language](https://img.shields.io/badge/language-C++11-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md) ![Progress](https://img.shields.io/badge/progress-289%20%2F%20289-ff69b4.svg)
+ ![Language](https://img.shields.io/badge/language-C++11-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md) ![Progress](https://img.shields.io/badge/progress-30%20%2F%201594-ff69b4.svg)
 
 This Section contains competitive coding form different different coding plateform
 <p align="center">
