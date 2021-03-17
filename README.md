@@ -6,11 +6,19 @@ This Section contains competitive coding form different different coding platefo
 <p align="center">
   <img width="460" height="300" src="https://github.com/skjha1/Competitive-Coding/blob/main/Codechef/IMG/cp.png">
 </p>
+## Topics
+* [Array](https://github.com/kamyu104/Competitive-Coding#array)
+* [Linked List](https://github.com/kamyu104/Competitive-Coding#Linked List)
 
 
-***LEETCODE***
+## 🔯 Array
+|  S.No  | Title           |  Solution       |  Time           | Space           | Difficulty    |
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |
+1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [source](https://github.com/skjha1/Competitive-Coding/blob/main/Leetcode/Easy/01%20Two%20Sum.cpp)  | _O(n)_       | _O(n)_          | Easy         |
+ 1 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [source](https://github.com/skjha1/Competitive-Coding/blob/main/Leetcode/Easy/02%20Contains%20Duplicate.cpp)  | _O(n)_       | _O(1)_          | Easy         |
 
-🔯 ***EASY***
+
+ ***Array***
 
 | Problem | Code |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
