@@ -6,7 +6,10 @@ This Section contains competitive coding form different different coding platefo
 <p align="center">
   <img width="460" height="300" src="https://github.com/skjha1/Competitive-Coding/blob/main/Codechef/IMG/cp.png">
 </p>
+
+
 ## Topics
+
 * [Array](https://github.com/kamyu104/Competitive-Coding#array)
 * [Linked List](https://github.com/kamyu104/Competitive-Coding#Linked List)
 
