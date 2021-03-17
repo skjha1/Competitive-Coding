@@ -10,8 +10,8 @@ This Section contains competitive coding form different different coding platefo
 
 ## Topics
 
-* [Array](https://github.com/kamyu104/Competitive-Coding#array)
-* [Linked List](https://github.com/kamyu104/Competitive-Coding#LinkedList)
+* [Array](https://github.com/skjha1/Competitive-Coding#array)
+* [Linked List](https://github.com/skjha1/Competitive-Coding#LinkedList)
 
 
 ## Array
