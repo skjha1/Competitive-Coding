@@ -14,7 +14,7 @@ This Section contains competitive coding form different different coding platefo
 * [Linked List](https://github.com/kamyu104/Competitive-Coding#LinkedList)
 
 
-## 🔯 Array
+## Array
 |  S.No  | Title           |  Solution       |  Time           | Space           | Difficulty    |
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |
 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [source](https://github.com/skjha1/Competitive-Coding/blob/main/Leetcode/Easy/01%20Two%20Sum.cpp)  | _O(n)_       | _O(n)_          | Easy         |
