@@ -1,5 +1,5 @@
 class Solution {
-public:
+public: 
     bool isPalindrome(ListNode* head) {
             
         vector <int> v;  // creating a vector 
