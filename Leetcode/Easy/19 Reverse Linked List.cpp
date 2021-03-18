@@ -22,6 +22,6 @@ public:
 		q->next = r;// q next sud points on 
 	}
 	return q; // once we came out of while loop // 1st pointer sud point on q 
-        
+         
     }
 };
