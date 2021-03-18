@@ -2,7 +2,7 @@ class Solution {
 public:
     bool isPalindrome(ListNode* head) {
             
-        vector <int> v; // creating a vector 
+        vector <int> v;  // creating a vector 
         while (head!=0) // while elements is there in the linkedlist
         {
             v.push_back(head->val); // put all the element in the vector from the list 
