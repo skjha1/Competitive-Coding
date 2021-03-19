@@ -3,7 +3,7 @@
 
 using namespace std;
 
-// ----------------------------------------------------------
+// ---------------------------------------------------------- O(n*m)
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
@@ -36,7 +36,6 @@ public:
         return twoSumAns;
     }
 };
-
 void PrintVector(vector<int>& input) {
     for (int i = 0; i < input.size(); i++) {
         cout << input[i] << " ";
