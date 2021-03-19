@@ -1,4 +1,4 @@
-class Solution {
+class Solution { 
 public:
       
 bool containsDuplicate(vector<int>& nums) // creating a vector varible nums 
