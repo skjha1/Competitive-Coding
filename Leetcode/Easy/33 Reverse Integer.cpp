@@ -4,7 +4,7 @@ public:
         // support variables
         long res = 0;
         // restructuring the number
-        while (n) {
+        while (n) { 
             res = res * 10 + n  % 10;
             n /= 10;
         }
