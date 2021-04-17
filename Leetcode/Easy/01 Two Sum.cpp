@@ -101,3 +101,19 @@ public:
         return {};
 }
 };
+
+------------------------------------------------------------------------------------------------------------------
+	
+	class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        unordered_map <int,int> hmap;
+        for (int i=0;i<nums.size();i++)
+        {
+            if (hmap.count(target-nums[i]))
+                return {i,hmap[target-nums[i]]};
+            hmap[nums[i]]=i;
+        }
+        return {};
+    }
+};
