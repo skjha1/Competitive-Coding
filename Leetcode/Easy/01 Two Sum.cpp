@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/two-sum/discuss/1162422/Explained-with-pen-and-paper-and-gfg-ref
 #include <vector>
 #include <iostream>
 
