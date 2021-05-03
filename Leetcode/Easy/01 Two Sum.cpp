@@ -1,4 +1,5 @@
 // https://leetcode.com/problems/two-sum/discuss/1162422/Explained-with-pen-and-paper-and-gfg-ref
+
 #include <vector>
 #include <iostream>
 
@@ -20,6 +21,26 @@ public:
         
     }
 };
+// -------------------------------------------------------------
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+       int n= nums.size();
+        unordered_map<int,int> hmap;
+        vector <int> ans;
+        for (int i=0;i<n;i++)
+        {
+            if (hmap.find(target-nums[i])!=hmap.end()){
+                ans.push_back(hmap[target-nums[i]]);
+                ans.push_back(i);
+                return ans;
+            }
+            hmap[nums[i]]=i; // store current nums of i in the hash table 
+        }
+        return ans;
+    }
+};
+
 //---------------------------------------------------------------
 
 class Solution {
