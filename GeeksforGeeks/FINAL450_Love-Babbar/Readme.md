@@ -3,3 +3,4 @@
 3. [Kth smallest element](https://practice.geeksforgeeks.org/viewSol.php?subId=efd9e0c559849d4be6310e534d90317d&pid=701747&user=shivendrajha)
 4. [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/viewSol.php?subId=7936db8dc5c05456a3be477c28c52f56&pid=702382&user=shivendrajha)
 5. [Move all negative numbers to beginning and positive to end](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/)
+6. [Union of two arrays](https://practice.geeksforgeeks.org/viewSol.php?subId=1c6a77b0652b5f8c09f58053b8ef491f&pid=701730&user=shivendrajha)
