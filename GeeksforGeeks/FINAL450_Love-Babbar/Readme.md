@@ -4,3 +4,5 @@
 4. [Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/viewSol.php?subId=7936db8dc5c05456a3be477c28c52f56&pid=702382&user=shivendrajha)
 5. [Move all negative numbers to beginning and positive to end](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/)
 6. [Union of two arrays](https://practice.geeksforgeeks.org/viewSol.php?subId=1c6a77b0652b5f8c09f58053b8ef491f&pid=701730&user=shivendrajha)
+7. [Cyclically rotate an array by one ](https://practice.geeksforgeeks.org/viewSol.php?subId=4408c892ff36642ae1245b0f5d29b288&pid=703298&user=shivendrajha)
+8. [Kadane's Algorithm](https://practice.geeksforgeeks.org/viewSol.php?subId=a01faf5124422b61b449cb4ebdb1a8de&pid=701215&user=shivendrajha)
