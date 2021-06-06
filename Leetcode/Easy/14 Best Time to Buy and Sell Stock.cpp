@@ -10,3 +10,19 @@ public:
         return max_profit; // at last we will get the ,maximum profit 
     }
 };
+---------------------------------------------------------------------------------------------------------
+class Solution {
+public:
+    int maxProfit(vector<int>& prices) {
+        int leftMin = prices[0];
+        int profit = 0;
+        for(int i=1; i<prices.size(); i++){
+            if(prices[i]<leftMin)
+                leftMin=prices[i];
+            if(prices[i]-leftMin>profit)
+                profit=prices[i]-leftMin;
+        }
+        return profit;
+        
+    }
+};
