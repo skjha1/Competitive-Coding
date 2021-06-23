@@ -1,6 +1,7 @@
 # Competitive-Coding
 
 
+
  ![Language](https://img.shields.io/badge/language-C++11-orange.svg)  ![Progress](https://img.shields.io/badge/progress-30%20%2F%201594-ff69b4.svg)
  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=skjha1.Competitive-Coding)
 
