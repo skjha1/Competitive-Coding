@@ -35,7 +35,7 @@ public:
         }
         
         
-        --------------------------------------------------------------------------
+----------------------------------------------------------------------------
             class Solution {
 public:
     void sortColors(vector<int>& nums) {
@@ -62,3 +62,63 @@ public:
         
     }
 };
+
+Complexity Analysis: 
+Time Complexity: O(n). 
+Only one traversal of the array is needed.
+Space Complexity: O(1). 
+No extra space is required.
+Approach: Count the number of 0s, 1s and 2s in the given array. Then store all the 0s in the beginning followed by all the 1s then all the 2s.
+
+-----------------------------------------------------------------------
+    class Solution {
+public:
+    void sortColors(vector<int>& nums) {
+        int n=nums.size();
+        int i;
+        int cnt0=0;
+        int cnt1=0;
+        int cnt2=0;
+        for (i=0;i<n;i++)
+        {
+            switch(nums[i])
+            {
+                case 0:
+                    cnt0++;
+                    break;
+                case 1:
+                    cnt1++;
+                    break;
+                case 2:
+                    cnt2++;
+                    break;
+            }
+        }
+        // Now update the array 
+        // store zero in the beginning
+        i=0;
+        while (cnt0>0)
+        {
+            nums[i++]=0; // store zero in the array and move ahead;
+            cnt0--;            
+        }
+        // now update 1 in the array
+        while (cnt1>0)
+        {
+            nums[i++]=1;
+            cnt1--;
+        }
+        // now keep 2 in the array 
+        while (cnt2>0)
+        {
+            nums[i++]=2;
+            cnt2--;
+        }
+   
+    }
+};
+Complexity Analysis: 
+Time Complexity: O(n). 
+Only two traversals of the array is needed.
+Space Complexity: O(1). 
+As no extra space is required.
