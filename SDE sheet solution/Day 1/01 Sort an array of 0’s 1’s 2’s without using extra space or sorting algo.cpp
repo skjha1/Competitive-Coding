@@ -1,3 +1,4 @@
+https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/
 // this is the variation of dutch national flag algo it states that
 // all element towards the left of low will be zero
 // all element towards right of high will be two
