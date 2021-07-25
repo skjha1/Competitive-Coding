@@ -1,5 +1,29 @@
 // https://leetcode.com/problems/two-sum/discuss/1162422/Explained-with-pen-and-paper-and-gfg-ref
 
+
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+	    //Key is the number and value is its index in the vector.
+        unordered_map<int,int> hash;
+        vector<int> res;
+        for (int i=0;i<nums.size();++i)
+        {
+            int numbertofind=target-nums[i];
+		//if numberToFind is found in map, return them
+            if (hash.find(numbertofind)!=hash.end())
+            {
+                res.push_back(hash[numbertofind]);
+                res.push_back(i);
+                return res;
+            }
+            hash[nums[i]]=i;
+        }
+        return res;
+        
+    }
+};
+
 #include <vector>
 #include <iostream>
 
