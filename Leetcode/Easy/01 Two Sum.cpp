@@ -13,7 +13,7 @@ public:
 		//if numberToFind is found in map, return them
             if (hash.find(numbertofind)!=hash.end())
             {
-                res.push_back(hash[numbertofind]);
+                res.push_back(hash[numbertofind]); // take index from map where the target element is found
                 res.push_back(i);
                 return res;
             }
