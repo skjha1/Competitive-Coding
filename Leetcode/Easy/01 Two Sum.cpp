@@ -1,6 +1,40 @@
 // https://leetcode.com/problems/two-sum/discuss/1162422/Explained-with-pen-and-paper-and-gfg-ref
 
 
+---------------------------------------------------------
+	class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+       unordered_map<int,int> hmap;
+        for (int i=0;i<nums.size();i++){
+            if (hmap.count(target-nums[i]))
+                return {i,(hmap[target-nums[i]])};
+            hmap[nums[i]]=i;
+        }
+        return {};
+} 
+        
+};
+------------------------------------------------------------------------
+	
+	class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        for (int i=0;i<nums.size();i++){
+            for (int j=i+1;j<nums.size();j++){
+               int res= nums[i]+nums[j];
+                if (res==target)
+                    return {i,j};
+            }
+        }
+        return {};
+    }
+        
+        
+};
+
+----------------------------------------------------------------------------
+
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
